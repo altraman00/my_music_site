@@ -17,3 +17,9 @@ django自带的db后台管理页面
 ``` python manage.py createsuperuser ```
 
 
+###启动项目
+进入项目根目录，命令行执行 ``` python manage.py runserver  ```
+
+#### 注意如果想通过pycharm的debug或者非debug模式运行，需要配置以下参数
+
+![avatar](./resources/run_manage_config.png)
